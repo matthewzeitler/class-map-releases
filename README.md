@@ -51,3 +51,7 @@ Class Map works without an internet connection. Your classes are saved on your o
 ## Updates
 
 The Windows installer checks for new versions when it starts and updates itself. On a Mac, or with the portable version, download the new version from the [releases page](https://github.com/matthewzeitler/class-map-releases/releases) when one comes out. Each release lists what's new.
+
+---
+
+<p align="center">Made by <a href="https://matthewzeitler.com">Matthew Zeitler</a></p>
